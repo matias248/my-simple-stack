@@ -1,0 +1,8 @@
+
+# ignore all .class et .iml
+ *.class
+ *.iml
+ **/target
+
+**/.idea
+ # ignore the repertory target/
